@@ -1,0 +1,9 @@
+link:
+  url: http://dhss.alaska.gov/dph/Epi/id/Pages/COVID-19/monitoring.aspx
+  name: main page
+link: 
+  url: https://experience.arcgis.com/experience/ed1c874ca60b4c15ab09095a070065ca
+  name: dashboard
+link:
+  url: https://alaska-dhss.maps.arcgis.com/apps/opsdashboard/index.html#/8782a14ef52342e99f866a3b8a3e624a
+  name: hospital data dashboard
